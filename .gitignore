@@ -28,3 +28,4 @@ venv/
 # Pyre type checker
 .pyre/
 .idea/*
+idea
